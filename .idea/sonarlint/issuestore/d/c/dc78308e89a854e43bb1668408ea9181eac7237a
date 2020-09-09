@@ -1,0 +1,41 @@
+
+U
+java:S1444$"3Make this "public static rootInGameMap" field final(—šÔúÿÿÿÿ8ÏÓ´–Ç.
+K
+java:S1444*".Make this "public static timeline" field final(éîÙš8ÏÓ´–Ç.
+N
+java:S1444+",Make this "public static player" field final(¾ ¬¬úÿÿÿÿ8ÏÓ´–Ç.
+q
+java:S1104"TMake hungerUp a static final constant or non-public and provide accessors if needed.(ßØâ²8ÏÓ´–Ç.
+t
+java:S1104 "RMake moodUp a static final constant or non-public and provide accessors if needed.(”ó¯çøÿÿÿÿ8ÏÓ´–Ç.
+v
+java:S1104!"YMake includingPane a static final constant or non-public and provide accessors if needed.(ó€™ˆ8ÏÓ´–Ç.
+r
+java:S1104""UMake basedPane a static final constant or non-public and provide accessors if needed.(äŞ‚8ÏÓ´–Ç.
+{
+java:S1104$"YMake rootInGameMap a static final constant or non-public and provide accessors if needed.(—šÔúÿÿÿÿ8ÏÓ´–Ç.
+
+java:S1104&"_Make block60x290cagePane a static final constant or non-public and provide accessors if needed.(ëØëœùÿÿÿÿ8ÏÓ´–Ç.
+
+java:S1104'"_Make block460x44cagePane a static final constant or non-public and provide accessors if needed.(Ûí•Ïüÿÿÿÿ8ÏÓ´–Ç.
+‚
+java:S1104("`Make block60x290cagePane1 a static final constant or non-public and provide accessors if needed.(Å×Œ‰ÿÿÿÿÿ8ÏÓ´–Ç.
+}
+java:S1104)"`Make block460x44cagePane1 a static final constant or non-public and provide accessors if needed.(øë­‰8ÏÓ´–Ç.
+q
+java:S1104*"TMake timeline a static final constant or non-public and provide accessors if needed.(éîÙš8ÏÓ´–Ç.
+t
+java:S1104+"RMake player a static final constant or non-public and provide accessors if needed.(¾ ¬¬úÿÿÿÿ8ÏÓ´–Ç.
+t
+java:S3776-"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(·òşÿÿÿÿ8ÏÓ´–Ç.
+U
+java:S1197:"8Move the array designator from the variable to the type.(õùªÂ8ÏÓ´–Ç.
+U
+java:S1197;"8Move the array designator from the variable to the type.(Ó“ô8ÏÓ´–Ç.
+U
+java:S1197<"8Move the array designator from the variable to the type.(ôÀÂ­8ÏÓ´–Ç.
+O
+java:S1135T"2Complete the task associated to this TODO comment.(ß¥œÕ8ÏÓ´–Ç.
+X	java:S125P"<This block of commented-out lines of code should be removed.(ÿâ£Ş8ÏÓ´–Ç.
+Y	java:S125‡"<This block of commented-out lines of code should be removed.(ËÈî¹8ÏÓ´–Ç.

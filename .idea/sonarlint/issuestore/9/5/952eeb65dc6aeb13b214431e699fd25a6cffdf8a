@@ -1,0 +1,19 @@
+
+u
+java:S1104"UMake imageView a static final constant or non-public and provide accessors if needed.(…Çªúÿÿÿÿ8«¸öÉÅ.
+k
+java:S1104"PMake pane a static final constant or non-public and provide accessors if needed.(ç¢ıã8Ë‘öÉÅ.
+u
+java:S1104"ZMake growthProgress a static final constant or non-public and provide accessors if needed.(õ¸µ8˜ÔÊÅ.
+R
+java:S1172"2Remove this unused method parameter "actionEvent".(¼…ÁÚùÿÿÿÿ8Ù”÷ğÆ.
+o
+java:S1104"TMake hungerUp a static final constant or non-public and provide accessors if needed.(ßØâ²8ÌöÉÅ.
+x
+java:S1104"XMake progressMood a static final constant or non-public and provide accessors if needed.(ÔûˆÛüÿÿÿÿ8ºˆÊÅ.
+R
+java:S1172"2Remove this unused method parameter "actionEvent".(‰Ù”Šıÿÿÿÿ8Ù”÷ğÆ.
+r
+java:S1104"RMake moodUp a static final constant or non-public and provide accessors if needed.(”ó¯çøÿÿÿÿ8àöÉÅ.
+z
+java:S1104"ZMake progressHunger a static final constant or non-public and provide accessors if needed.(ÚâÇ¶üÿÿÿÿ8ºˆÊÅ.

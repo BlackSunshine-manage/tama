@@ -1,0 +1,21 @@
+
+A	java:S131""Add a default case to this switch.(Ïıæ…øÿÿÿÿ8¦›–ÎÆ.
+]
+java:S2259"BA "NullPointerException" could be thrown; "food" is nullable here.(ä¹¤è8¿ŞéıÅ.
+k
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(Ïıæ…øÿÿÿÿ8¦›–ÎÆ.
+c
+java:S1214"CMove constants defined in this interfaces to another class or enum.(˜†±­øÿÿÿÿ8­éúÅ.
+<	java:S131""Add a default case to this switch.(ÜŸ•8¦›–ÎÆ.
+G
+java:S1602",Remove useless curly braces around statement(à†¬’8¦›–ÎÆ.
+M
+java:S1135"2Complete the task associated to this TODO comment.(Ö©Ñ‘8¦›–ÎÆ.
+M
+java:S1135"2Complete the task associated to this TODO comment.(Å–ıî8¦›–ÎÆ.
+r
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(šõ×šşÿÿÿÿ8¦›–ÎÆ.
+V	java:S125"<This block of commented-out lines of code should be removed.(±³á¸8¦›–ÎÆ.
+[	java:S125"<This block of commented-out lines of code should be removed.(„°ì„ÿÿÿÿÿ8¦›–ÎÆ.
+F
+java:S1172"+Remove this unused method parameter "food".(ÁÍï’8‰‹ºÇ.

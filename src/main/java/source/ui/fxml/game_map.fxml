@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+
+<AnchorPane id="Based_map(1)GreenType" fx:id="basedPane" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="source.ui.controllers.GameMap">
+
+    <fx:include fx:id="includingPane" layoutX="15.0" layoutY="460.0" source="GUI.fxml" />
+   <Pane fx:id="block60x290cagePane" layoutX="35.0" prefHeight="290.0" prefWidth="60.0" />
+   <Pane fx:id="block460x44cagePane" layoutX="95.0" prefHeight="44.0" prefWidth="460.0" />
+   <Pane fx:id="block60x290cagePane1" layoutX="555.0" prefHeight="290.0" prefWidth="60.0" />
+   <Pane fx:id="block460x44cagePane1" layoutX="95.0" layoutY="246.0" prefHeight="44.0" prefWidth="460.0" />
+</AnchorPane>

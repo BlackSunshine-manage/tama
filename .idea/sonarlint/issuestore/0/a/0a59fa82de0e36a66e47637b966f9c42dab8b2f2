@@ -1,0 +1,26 @@
+
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(µî¶ğ8ã÷ğ×Ä.
+H
+java:S1125"(Remove the literal "true" boolean value.(òÉéÕıÿÿÿÿ8Éÿ¹ªÅ.
+R
+java:S1611"2Remove the parentheses around the "food" parameter(ë°íÛıÿÿÿÿ8ğ¸ÙüÅ.
+V	java:S125"<This block of commented-out lines of code should be removed.(¾åòÌ8Ê™–ÎÆ.
+D
+java:S1659"$Declare "always" on a separate line.(ĞÍ£¥ûÿÿÿÿ8—ä¨Å.
+m
+java:S1871"MThis branch's code block is the same as the block for the branch on line 117.(Õ¹§½ùÿÿÿÿ8Ê™–ÎÆ.
+G
+java:S1905"'Remove this unnecessary cast to "Food".(µŸ¬Åøÿÿÿÿ8ğ¸ÙüÅ.
+?
+java:S1659"Declare "s" on a separate line.(ĞÍ£¥ûÿÿÿÿ8ÙÏ¨Å.
+?
+java:S1659"Declare "d" on a separate line.(ĞÍ£¥ûÿÿÿÿ8ÙÏ¨Å.
+?
+java:S1659"Declare "a" on a separate line.(ĞÍ£¥ûÿÿÿÿ8ÙÏ¨Å.
+R
+java:S1135"2Complete the task associated to this TODO comment.(ıêøÿÿÿÿ8ûŠŒ†Å.
+H
+java:S1125"(Remove the literal "true" boolean value.(şÜ÷İúÿÿÿÿ8Éÿ¹ªÅ.
+c
+java:S1214"CMove constants defined in this interfaces to another class or enum.(™á–åşÿÿÿÿ8ŞßÛ×Ä.
