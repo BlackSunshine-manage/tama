@@ -1,0 +1,36 @@
+
+v
+java:S1104""YMake includingPane a static final constant or non-public and provide accessors if needed.(ó€™ˆ8¥ŸçãÇ.
+t
+java:S3776."RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(·òşÿÿÿÿ8×ÈÅİÈ.
+_
+java:S1481E"BRemove this unused "neededFoodAfterFifteenSeconds" local variable.(ššÉ 8Ãë¥‡É.
+t
+java:S1104,"RMake player a static final constant or non-public and provide accessors if needed.(¾ ¬¬úÿÿÿÿ8¥ŸçãÇ.
+N
+java:S1444,",Make this "public static player" field final(¾ ¬¬úÿÿÿÿ8¥ŸçãÇ.
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üöøá8¥ŸçãÇ.
+K
+java:S1444+".Make this "public static timeline" field final(éîÙš8¥ŸçãÇ.
+U
+java:S1197E"8Move the array designator from the variable to the type.(ššÉ 8ª¶âÇÈ.
+U
+java:S1444%"3Make this "public static rootInGameMap" field final(—šÔúÿÿÿÿ8¥ŸçãÇ.
+r
+java:S1104#"UMake basedPane a static final constant or non-public and provide accessors if needed.(äŞ‚8¥ŸçãÇ.
+
+java:S1104'"_Make block60x290cagePane a static final constant or non-public and provide accessors if needed.(ëØëœùÿÿÿÿ8¥ŸçãÇ.
+}
+java:S1104*"`Make block460x44cagePane1 a static final constant or non-public and provide accessors if needed.(øë­‰8¥ŸçãÇ.
+q
+java:S1104+"TMake timeline a static final constant or non-public and provide accessors if needed.(éîÙš8¥ŸçãÇ.
+n
+java:S1854E"QRemove this useless assignment to local variable "neededFoodAfterFifteenSeconds".(ššÉ 8Ãë¥‡É.
+{
+java:S1104%"YMake rootInGameMap a static final constant or non-public and provide accessors if needed.(—šÔúÿÿÿÿ8¥ŸçãÇ.
+‚
+java:S1104)"`Make block60x290cagePane1 a static final constant or non-public and provide accessors if needed.(Å×Œ‰ÿÿÿÿÿ8¥ŸçãÇ.
+O
+java:S1481I"-Remove this unused "flagDead" local variable.(ÈøÛ²ÿÿÿÿÿ8ÅÏ£‡É.
+
+java:S1104("_Make block460x44cagePane a static final constant or non-public and provide accessors if needed.(Ûí•Ïüÿÿÿÿ8¥ŸçãÇ.

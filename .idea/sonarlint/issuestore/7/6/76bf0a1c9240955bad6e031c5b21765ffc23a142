@@ -1,0 +1,12 @@
+
+T
+java:S1611<"2Remove the parentheses around the "food" parameter(ë°íÛıÿÿÿÿ8¯¿â£Ç.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(¬®íøşÿÿÿÿ8…˜ä£Ç.
+I
+java:S1905>"'Remove this unnecessary cast to "Food".(µŸ¬Åøÿÿÿÿ8ºŞß´Ç.
+J
+java:S1125"(Remove the literal "true" boolean value.(òÉéÕıÿÿÿÿ8¯¿â£Ç.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•¸Ëúúÿÿÿÿ
+J
+java:S1125)"(Remove the literal "true" boolean value.(şÜ÷İúÿÿÿÿ8¯¿â£Ç.

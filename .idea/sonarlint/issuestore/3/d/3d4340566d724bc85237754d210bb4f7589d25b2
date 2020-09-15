@@ -1,0 +1,8 @@
+
+W
+java:S1118":Add a private constructor to hide the implicit public one.(ªå Å8•®Ó Ç.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÍõùÏÿÿÿÿÿ
+J
+java:S4274"(Replace this assert with a proper check.(èñæŸûÿÿÿÿ8’×î Ç.
+_
+java:S2259"BA "NullPointerException" could be thrown; "type" is nullable here.(ÜŸ•8´óî Ç.

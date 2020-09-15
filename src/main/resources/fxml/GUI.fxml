@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ProgressBar?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="pane" prefHeight="105.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="task7.ui.controllers.GUI">
+   <children>
+      <ImageView fx:id="imageView" fitHeight="113.0" fitWidth="609.0" layoutX="-7.0" layoutY="-4.0">
+         <image>
+            <Image url="@../images/AllUI.png" />
+         </image>
+      </ImageView>
+      <Button fx:id="hungerUp" layoutX="14.0" layoutY="42.0" mnemonicParsing="false" onAction="#onActionHungerUp" prefHeight="25.0" prefWidth="185.0" text="Покормить" />
+      <Button fx:id="moodUp" layoutX="403.0" layoutY="43.0" mnemonicParsing="false" onAction="#onActionMoodUp" prefHeight="25.0" prefWidth="185.0" text="Погладить" />
+      <ProgressBar id="progressHunger" fx:id="progressHunger" layoutX="191.0" layoutY="94.0" prefHeight="12.0" prefWidth="200.0" progress="0.0" />
+      <ProgressBar id="progressMood" fx:id="progressMood" layoutX="191.0" layoutY="81.0" prefHeight="12.0" prefWidth="200.0" progress="0.0" />
+      <ProgressBar id="growthProgress" fx:id="growthProgress" layoutX="224.0" layoutY="46.0" prefHeight="18.0" prefWidth="137.0" progress="0.0" />
+      <Label layoutX="89.0" layoutY="92.0" prefHeight="17.0" prefWidth="102.0" text="Голод">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font></Label>
+      <Label layoutX="89.0" layoutY="77.0" prefHeight="21.0" prefWidth="102.0" text="Настроение">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font></Label>
+      <Label layoutX="224.0" layoutY="14.0" prefHeight="27.0" prefWidth="137.0" text="Стадия роста">
+         <font>
+            <Font name="System Bold Italic" size="18.0" />
+         </font></Label>
+   </children>
+</AnchorPane>

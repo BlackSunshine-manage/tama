@@ -1,0 +1,12 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üöøá
+s
+java:S1104"XMake buttonAccept a static final constant or non-public and provide accessors if needed.(­Ï¸íûÿÿÿÿ
+M
+java:S1172"2Remove this unused method parameter "actionEvent".(ÊŸ¡óùÿÿÿÿ
+E
+java:S2093!"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+k
+java:S2259("PA "NullPointerException" could be thrown; "objectOutputStream" is nullable here.(µÚýçøÿÿÿÿ
+k
+java:S1104"VMake anchorPane a static final constant or non-public and provide accessors if needed.(Û§™

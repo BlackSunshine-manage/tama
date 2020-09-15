@@ -1,0 +1,50 @@
+
+{
+java:S1104'"^Make applicationContext a static final constant or non-public and provide accessors if needed.(ÇÓÕü8›ÛåáÇ.
+:
+java:S2386#"Make this member "protected".(‚…Õï8Ÿ‹•†É.
+I
+java:S1602K",Remove useless curly braces around statement(ËÁˆ–8ŒÔ–†É.
+w
+java:S1104&"UMake character a static final constant or non-public and provide accessors if needed.(¿Û¿ùÿÿÿÿ8›ÛåáÇ.
+m
+java:S1104)"PMake root a static final constant or non-public and provide accessors if needed.(íŠ„æ8›ÛåáÇ.
+<
+java:S1640""Convert this Map to an EnumMap.(¼¿«Æ8›ÛåáÇ.
+N
+java:S1602G",Remove useless curly braces around statement(à×ŞŸûÿÿÿÿ8ŒÔ–†É.
+H
+java:S1444$"+Make this "public static scene" field final(äõ8›ÛåáÇ.
+c	java:S899k"BDo something with the "boolean" value returned by "createNewFile".(’Ù³•úÿÿÿÿ8›È™É.
+]	java:S125b"<This block of commented-out lines of code should be removed.(Îü’çÿÿÿÿÿ8®ïÄ‘É.
+H
+java:S1444#"+Make this "public static foods" field final(‚…Õï8›ÛåáÇ.
+G
+java:S1444)"*Make this "public static root" field final(íŠ„æ8›ÛåáÇ.
+:
+java:S2386""Make this member "protected".(¼¿«Æ8›ÛåáÇ.
+U
+java:S1444'"8Make this "public static applicationContext" field final(ÇÓÕü8›ÛåáÇ.
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈĞÙØùÿÿÿÿ8›ÛåáÇ.
+I
+java:S1444%",Make this "public static player" field final(Ë—Æê8›ÛåáÇ.
+m
+java:S1104""PMake keys a static final constant or non-public and provide accessors if needed.(¼¿«Æ8›ÛåáÇ.
+v
+java:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(¼¿«Æ8›ÛåáÇ.
+G
+java:S1444""*Make this "public static keys" field final(¼¿«Æ8›ÛåáÇ.
+Q
+java:S1444&"/Make this "public static character" field final(¿Û¿ùÿÿÿÿ8›ÛåáÇ.
+X	java:S1251"<This block of commented-out lines of code should be removed.(Ğï×»8í¢ÒÉ.
+n
+java:S1104#"QMake foods a static final constant or non-public and provide accessors if needed.(‚…Õï8›ÛåáÇ.
+W	java:S125`"<This block of commented-out lines of code should be removed.(ßº§58®ïÄ‘É.
+L
+java:S20932"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ŒÔ–†É.
+n
+java:S1104$"QMake scene a static final constant or non-public and provide accessors if needed.(äõ8›ÛåáÇ.
+o
+java:S1104%"RMake player a static final constant or non-public and provide accessors if needed.(Ë—Æê8›ÛåáÇ.
+G
+java:S54117"*Use the primitive boolean expression here.(ÙığŒ8ŒÔ–†É.
