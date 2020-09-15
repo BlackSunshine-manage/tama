@@ -6,7 +6,6 @@ task7\characters\chars\BlackCat$1.class
 task7\food\foods\Bone.class
 task7\characters\chars\CharacterType.class
 task7\utils\counter_animation\factory\CounterFactory$1.class
-task7\enums\path\Temp.class
 task7\characters\chars\Poring.class
 task7\static_vars\StaticStyleProperty.class
 task7\enums\TypePetName.class
@@ -33,7 +32,6 @@ task7\enums\id\Identifiers.class
 task7\characters\chars\Nightmare.class
 task7\enums\PetsDescriptions.class
 task7\utils\counter_animation\mood_counter\MoodCounter.class
-task7\enums\path\Files.class
 task7\enums\MaxHungerInAnotherStages.class
 task7\utils\MovingUtils.class
 task7\food\foods\Ghost.class

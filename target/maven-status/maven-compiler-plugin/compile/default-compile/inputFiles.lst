@@ -1,6 +1,5 @@
 C:\Tamagocha\tama\src\main\java\task7\characters\chars\Player.java
 C:\Tamagocha\tama\src\main\java\task7\food\foods\Ghost.java
-C:\Tamagocha\tama\src\main\java\task7\enums\path\Temp.java
 C:\Tamagocha\tama\src\main\java\task7\enums\TypePetName.java
 C:\Tamagocha\tama\src\main\java\task7\food\foods\Meat.java
 C:\Tamagocha\tama\src\main\java\task7\ui\controllers\GameMap.java
@@ -19,7 +18,6 @@ C:\Tamagocha\tama\src\main\java\task7\context\SpringApplicationContext.java
 C:\Tamagocha\tama\src\main\java\task7\enums\PetsDescriptions.java
 C:\Tamagocha\tama\src\main\java\task7\engine\EngineGameInputKeypad.java
 C:\Tamagocha\tama\src\main\java\task7\enums\id\Identifiers.java
-C:\Tamagocha\tama\src\main\java\task7\enums\path\Files.java
 C:\Tamagocha\tama\src\main\java\task7\utils\counter_animation\mood_counter\MoodCounter.java
 C:\Tamagocha\tama\src\main\java\task7\utils\counter_animation\Counter.java
 C:\Tamagocha\tama\src\main\java\task7\static_vars\StaticStyleProperty.java
