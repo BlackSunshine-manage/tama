@@ -8,5 +8,6 @@ public class Fish extends Food {
         super(imageView);
     }
 
-    public Fish() { }
+    public Fish() {
+    }
 }

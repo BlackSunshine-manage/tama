@@ -1,28 +1,28 @@
 
-p
-java:S1104"TMake previous a static final constant or non-public and provide accessors if needed.(Ú·†X8ŠÂŒ¡Ç.
-u
-java:S1104%"XMake sharedPlayer a static final constant or non-public and provide accessors if needed.(ĞëŠû8ŠÂŒ¡Ç.
-T
-java:S11720"2Remove this unused method parameter "actionEvent".(—ŒÂúÿÿÿÿ8ŠÂŒ¡Ç.
-O
-java:S11729"2Remove this unused method parameter "actionEvent".(­ú¬8ŠÂŒ¡Ç.
 v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üöøá8ŠÂŒ¡Ç.
-T
-java:S1172G"2Remove this unused method parameter "actionEvent".(†İèúÿÿÿÿ8ŠÂŒ¡Ç.
-r
-java:S1104"UMake createPet a static final constant or non-public and provide accessors if needed.(¢¸åÑ8ŠÂŒ¡Ç.
+u
+java:S1104"SMake petName a static final constant or non-public and provide accessors if needed.(’äò–ÿÿÿÿÿ8ŠÂŒ¡Ç.
 u
 java:S1104"YMake animationPane a static final constant or non-public and provide accessors if needed.(¡»A8ŠÂŒ¡Ç.
 Z
 java:S11173"=Rename "createPet" which hides the field declared at line 28.(Ë™ëî8ŠÂŒ¡Ç.
-u
-java:S1104"SMake petName a static final constant or non-public and provide accessors if needed.(’äò–ÿÿÿÿÿ8ŠÂŒ¡Ç.
-O
-java:S1444%"2Make this "public static sharedPlayer" field final(ĞëŠû8ŠÂŒ¡Ç.
-|
-java:S1104""ZMake petDescription a static final constant or non-public and provide accessors if needed.(ÈÖ×ıÿÿÿÿ8ŠÂŒ¡Ç.
-p
-java:S1104"SMake nextPet a static final constant or non-public and provide accessors if needed.(Í¼Œı8ŠÂŒ¡Ç.
 v
 java:S1104!"TMake basePane a static final constant or non-public and provide accessors if needed.(‘›¿ëÿÿÿÿÿ8ŠÂŒ¡Ç.
+|
+java:S1104""ZMake petDescription a static final constant or non-public and provide accessors if needed.(ÈÖ×ıÿÿÿÿ8ŠÂŒ¡Ç.
+r
+java:S1104"UMake createPet a static final constant or non-public and provide accessors if needed.(¢¸åÑ8ŠÂŒ¡Ç.
+T
+java:S11720"2Remove this unused method parameter "actionEvent".(—ŒÂúÿÿÿÿ8ŠÂŒ¡Ç.
+u
+java:S1104%"XMake sharedPlayer a static final constant or non-public and provide accessors if needed.(ĞëŠû8ŠÂŒ¡Ç.
+O
+java:S1444%"2Make this "public static sharedPlayer" field final(ĞëŠû8ŠÂŒ¡Ç.
+T
+java:S1172G"2Remove this unused method parameter "actionEvent".(†İèúÿÿÿÿ8ŠÂŒ¡Ç.
+O
+java:S11729"2Remove this unused method parameter "actionEvent".(­ú¬8ŠÂŒ¡Ç.
+p
+java:S1104"TMake previous a static final constant or non-public and provide accessors if needed.(Ú·†X8ŠÂŒ¡Ç.
+p
+java:S1104"SMake nextPet a static final constant or non-public and provide accessors if needed.(Í¼Œı8ŠÂŒ¡Ç.

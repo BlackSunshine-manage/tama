@@ -12,7 +12,6 @@ import javafx.util.Duration;
 import task7.Main;
 import task7.blocks.Block;
 import task7.blocks.UnbreakableBlock;
-import task7.characters.chars.CharacterPlayer;
 import task7.characters.chars.Player;
 import task7.engine.EngineGameInputKeypad;
 import task7.enums.StatsValue;
@@ -24,7 +23,8 @@ import task7.utils.counter_animation.factory.CounterFactory;
 import java.io.*;
 
 import static task7.enums.id.Identifiers.*;
-import static task7.enums.path.PathAndNameFiles.*;
+import static task7.enums.path.PathAndNameFiles.MAP_IMAGE_GREEN_1;
+import static task7.enums.path.PathAndNameFiles.PATH_TO_MAP_IN_RESOURCES_FOLDER;
 import static task7.static_vars.StaticImageViews.imageCage460x44;
 import static task7.static_vars.StaticImageViews.imageCage60x290;
 
@@ -49,9 +49,9 @@ public class GameMap implements EngineGameInputKeypad {
         basedPane.setBackground(new Background(backgroundImage));
 
         /**
-         * Таймлайн для постепенного снижения голода и настроения у питомца(по 1 ед.) каждые 5 секунд. В случае если голод
-         * равен 0 и прошло 75 секунд петомец умирает.
-         * Процедура автосохранения инициализируется каждые 25 секунд
+         * Таймлайн для постепенного снижения голода и настроения у питомца(по 1 ед.) каждые 3 секунды и 4 секунды соответственно. В случае если голод
+         * равен 0 и прошло 15 секунд петомец умирает.
+         * Процедура автосохранения инициализируется каждые 15 секунд
          * */
         final int TIMELINE_FINAL = 1;
 
@@ -68,7 +68,7 @@ public class GameMap implements EngineGameInputKeypad {
                 ae -> {
                     boolean flagDead = true;
                     time[0] = time[0] + TIMELINE_FINAL;
-                    if(neededHungry(player)){
+                    if (neededHungry(player)) {
                         player.petIsDiedProperty().setValue(true);
                     }
 

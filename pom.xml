@@ -21,14 +21,9 @@
         <resources>
             <resource>
                 <filtering>false</filtering>
-<!--                <directory>src/main</directory>-->
                 <directory>src/main</directory>
-<!--                <excludes>-->
-<!--                    <exclude>src/main/resources</exclude>-->
-<!--                </excludes>-->
                 <includes>
                     <include>**/*.html</include>
-                    <include>**/*.fxml</include>
                     <include>**/*.fxml</include>
                     <include>**/*.jpg</include>
                     <include>**/*.png</include>
@@ -37,25 +32,6 @@
         </resources>
         <pluginManagement>
             <plugins>
-<!--                <plugin>-->
-<!--                    <groupId>org.apache.maven.plugins</groupId>-->
-<!--                    <artifactId>maven-dependency-plugin</artifactId>-->
-<!--                    <version>2.8</version>-->
-<!--                    <executions>-->
-<!--                        <execution>-->
-<!--                            <id>unpack-dependencies</id>-->
-<!--                            <phase>package</phase>-->
-<!--                            <goals>-->
-<!--                                <goal>unpack-dependencies</goal>-->
-<!--                            </goals>-->
-<!--                            <configuration>-->
-<!--                                <excludeScope>system</excludeScope>-->
-<!--                                <excludeGroupIds>junit,org.mockito,org.hamcrest</excludeGroupIds>-->
-<!--                                <outputDirectory>${project.build.directory}/classes</outputDirectory>-->
-<!--                            </configuration>-->
-<!--                        </execution>-->
-<!--                    </executions>-->
-<!--                </plugin>-->
                 <plugin>
                     <artifactId>maven-assembly-plugin</artifactId>
                     <configuration>
@@ -70,57 +46,6 @@
                         </descriptorRefs>
                     </configuration>
                 </plugin>
-<!--                <plugin>-->
-<!--                    <groupId>com.zenjava</groupId>-->
-<!--                    <artifactId>javafx-maven-plugin</artifactId>-->
-<!--                    <version>2.0</version>-->
-<!--                    <configuration>-->
-<!--                        <mainClass>task7.Main</mainClass>-->
-<!--                    </configuration>-->
-<!--                </plugin>-->
-<!--                <plugin>-->
-<!--                    <groupId>org.apache.maven.plugins</groupId>-->
-<!--                    <artifactId>maven-compiler-plugin</artifactId>-->
-<!--                    <version>3.8.0</version>-->
-<!--                    <configuration>-->
-<!--                        <source>14</source>-->
-<!--                        <target>14</target>-->
-<!--                        <encoding>UTF-8</encoding>-->
-<!--                    </configuration>-->
-<!--                </plugin>-->
-<!--                <plugin>-->
-<!--                    <groupId>org.codehaus.mojo</groupId>-->
-<!--                    <artifactId>exec-maven-plugin</artifactId>-->
-<!--                    <version>1.6.0</version>-->
-<!--                    <executions>-->
-<!--                        <execution>-->
-<!--                            <goals>-->
-<!--                                <goal>java</goal>-->
-<!--                            </goals>-->
-<!--                        </execution>-->
-<!--                    </executions>-->
-<!--                    <configuration>-->
-<!--                        <mainClass>task7.Main</mainClass>-->
-<!--                    </configuration>-->
-<!--                </plugin>-->
-<!--                <plugin>-->
-<!--                    <groupId>com.zenjava</groupId>-->
-<!--                    <artifactId>javafx-maven-plugin</artifactId>-->
-<!--                    <version>8.8.3</version>-->
-<!--                    <configuration>-->
-<!--                        <jfxMainAppJarName>${project.build.finalName}.jar</jfxMainAppJarName>-->
-<!--                        <mainClass>task7.Main</mainClass>-->
-<!--                    </configuration>-->
-<!--                    <executions>-->
-<!--                        <execution>-->
-<!--                            <id>create-jfxjar</id>-->
-<!--                            <phase>package</phase>-->
-<!--                            <goals>-->
-<!--                                <goal>build-jar</goal>-->
-<!--                            </goals>-->
-<!--                        </execution>-->
-<!--                    </executions>-->
-<!--                </plugin>-->
             </plugins>
         </pluginManagement>
     </build>
@@ -132,15 +57,12 @@
             <version>4.2</version>
         </dependency>
 
-
         <!-- https://mvnrepository.com/artifact/org.apache.maven/maven-artifact -->
         <dependency>
             <groupId>org.apache.maven</groupId>
             <artifactId>maven-artifact</artifactId>
             <version>3.3.9</version>
         </dependency>
-
-
 
         <!-- https://mvnrepository.com/artifact/org.springframework/spring-context -->
         <dependency>

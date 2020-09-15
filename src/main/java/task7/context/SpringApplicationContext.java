@@ -9,11 +9,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Scope;
 import task7.Main;
 import task7.characters.chars.*;
-import task7.static_vars.StaticImageViews;
 
-import java.io.FileInputStream;
-import java.io.IOException;
-import java.io.ObjectInputStream;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -23,8 +19,6 @@ import static task7.enums.path.PathAndNameFiles.*;
 @ComponentScan
 
 public class SpringApplicationContext {
-   // private final StaticImageViews images = new StaticImageViews();
-
     @Bean
     @Scope
     @Qualifier("blackcat")
@@ -92,14 +86,6 @@ public class SpringApplicationContext {
 
         }
         return new ImageView(image);
-    }
-
-    @Bean
-    @Scope("prototype")
-    public Player getPlayerInputFile() throws IOException, ClassNotFoundException {
-        Player player = new Player();
-        player = player.readObject(new ObjectInputStream(new FileInputStream(DATA_SAVE_AND_LOAD_FILE_NAME.getPath())));
-        return player;
     }
 
     // TODO FOD ADDONS(3). Дополнить блок ArrayList (методом add) когда добавляем нового CharacterPlayer - дочернего класса

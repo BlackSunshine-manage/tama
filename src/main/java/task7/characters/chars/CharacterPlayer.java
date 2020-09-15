@@ -502,6 +502,7 @@ public abstract class CharacterPlayer extends Pane implements Serializable {
     }
 
     public abstract Food getFood();
+
     public abstract void setOffsetYByKeyCode(KeyCode keyCode);
 
     public void playAnimation() {

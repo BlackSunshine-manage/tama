@@ -13,6 +13,7 @@ import static task7.engine.EngineGameInputKeypad.MOVEMENT_RATE;
 public class MovingUtils {
     /**
      * Метод передвижения персонажа
+     *
      * @param player Принимает на вход объект персонажа которым будет управляться.
      * @param x      Кратность выполнения передвижения
      */
@@ -33,6 +34,7 @@ public class MovingUtils {
 
     /**
      * Метод передвижения персонажа
+     *
      * @param player Принимает на вход объект персонажа которым будет управляться.
      * @param y      Кратность выполнения передвижения
      */

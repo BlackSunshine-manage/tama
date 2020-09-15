@@ -1,21 +1,16 @@
 package task7.ui.controllers;
 
 import javafx.event.ActionEvent;
-import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.scene.layout.AnchorPane;
 import javafx.stage.Stage;
 import task7.characters.chars.Player;
-import task7.enums.path.PathAndNameFiles;
 import task7.single_instance.FileSaveAndLoadPlayer;
 
-import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.ObjectOutputStream;
 
-import static task7.enums.path.PathAndNameFiles.*;
-import static task7.utils.ApplicationUtils.createParentFromFXML;
 import static task7.utils.ApplicationUtils.setButtonEvents;
 
 public class DeadPet {

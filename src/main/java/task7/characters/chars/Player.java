@@ -1,10 +1,10 @@
 package task7.characters.chars;
 
 
-import task7.enums.MaxHungerInAnotherStages;
 import javafx.beans.property.SimpleBooleanProperty;
 import javafx.beans.property.SimpleIntegerProperty;
 import org.springframework.stereotype.Component;
+import task7.enums.MaxHungerInAnotherStages;
 
 import java.io.IOException;
 import java.io.ObjectInputStream;
@@ -248,7 +248,7 @@ public class Player implements Serializable {
         objectOutputStream.writeObject(timeInGame.getTime() + (lastVisit.getTime() - new Date().getTime()));
         objectOutputStream.writeObject(petIsDiedProperty().getValue());
         objectOutputStream.writeObject(player.getStageGrowth());
-        System.out.println(player.getStageGrowth() + " WRITE ON GROWTH PROPERTY" );
+        System.out.println(player.getStageGrowth() + " WRITE ON GROWTH PROPERTY");
         objectOutputStream.writeObject(this.timeToSpawn.getValue());
     }
 
@@ -288,10 +288,10 @@ public class Player implements Serializable {
                 maxHunger = MaxHungerInAnotherStages.STAGE_1_HUNGER_MAX.getHungerMax();
                 break;
             case 2:
-                maxHunger = MaxHungerInAnotherStages.STAGE_2_HUNGER_MAX.getHungerMax();;
+                maxHunger = MaxHungerInAnotherStages.STAGE_2_HUNGER_MAX.getHungerMax();
                 break;
             case 3:
-                maxHunger = MaxHungerInAnotherStages.STAGE_3_HUNGER_MAX.getHungerMax();;
+                maxHunger = MaxHungerInAnotherStages.STAGE_3_HUNGER_MAX.getHungerMax();
                 break;
         }
 

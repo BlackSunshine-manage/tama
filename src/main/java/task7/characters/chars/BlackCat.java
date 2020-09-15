@@ -5,12 +5,9 @@ import javafx.geometry.Rectangle2D;
 import javafx.scene.image.ImageView;
 import javafx.scene.input.KeyCode;
 import javafx.util.Duration;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Qualifier;
 import task7.enums.PetsDescriptions;
 import task7.enums.TypePetName;
 import task7.food.Food;
-import task7.engine.EngineGameInputKeypad;
 import task7.static_vars.StaticImageViews;
 import task7.utils.SpriteAnimation;
 

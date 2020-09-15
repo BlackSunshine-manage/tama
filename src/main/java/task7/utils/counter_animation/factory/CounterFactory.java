@@ -19,7 +19,7 @@ public class CounterFactory {
             case HUNGER_DECREMENT_TO_ONE:
                 return new HungerCounter(StaticImageViews.hungerMinusOne, GameMap.player.getPlayer(), GameMap.rootInGameMap);
             default:
-                throw new UnsupportedOperationException("Not supported ");
+                throw new UnsupportedOperationException("Not supported operation for" + statusType.getStatusName());
         }
     }
 }

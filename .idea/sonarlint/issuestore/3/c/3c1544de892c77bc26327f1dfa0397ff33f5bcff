@@ -1,38 +1,34 @@
 
-?	java:S131ž""Add a default case to this switch.(ü§²Á8šà•¡Ç.
-?
-java:S1116£"Remove this empty statement.(þÅ•êýÿÿÿÿ8ÿ»°ÀÇ.
+V
+java:S1117Œ"8Rename "mood" which hides the field declared at line 70.(»šîê8šà•¡Ç.
 {	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÍõùÏÿÿÿÿÿ8šà•¡Ç.
-?
-java:S1116¦"Remove this empty statement.(âí¾Ñÿÿÿÿÿ8‹ô°ÀÇ.
-E	java:S108X")Either remove or fill this block of code.(ë«î†8šà•¡Ç.
-]
-java:S1117µ":Rename "player" which hides the field declared at line 75.(‘àÑÞüÿÿÿÿ8šà•¡Ç.
-D
-java:S1905œ"&Remove this unnecessary cast to "int".(ä¶¸å8Õ¨Â¡Ç.
 ]
 java:S1117‹":Rename "hungry" which hides the field declared at line 65.(ŽêÕ’þÿÿÿÿ8šà•¡Ç.
+K
+java:S1948<")Make "afkTime" transient or serializable.(æñ”Žþÿÿÿÿ8šà•¡Ç.
+J
+java:S1948A"(Make "hungry" transient or serializable.(¶½˜Õÿÿÿÿÿ8šà•¡Ç.
+C
+java:S1948F"&Make "mood" transient or serializable.(¤ ‚ú8šà•¡Ç.
+?
+java:S2061†"Make "readObject" "private".(ú‹çÄýÿÿÿÿ8šà•¡Ç.
 Š
 java:S4165V"mRemove this useless assignment; "timeInGameMills" already holds the assigned value along all execution paths.(ÕùÛÑ8šà•¡Ç.
+E	java:S108X")Either remove or fill this block of code.(ë«î†8šà•¡Ç.
+?	java:S131ž""Add a default case to this switch.(ü§²Á8šà•¡Ç.
+M
+java:S1948-"+Make "petIsDied" transient or serializable.(Ô¼¿³üÿÿÿÿ8šà•¡Ç.
+@
+java:S2061ó"Make "writeObject" "private".(—œÁÄùÿÿÿÿ8šà•¡Ç.
+1
+java:S1700K"Rename field "player"(Î¶»e8šà•¡Ç.
+D
+java:S1905œ"&Remove this unnecessary cast to "int".(ä¶¸å8Õ¨Â¡Ç.
 I
 java:S1905•"&Remove this unnecessary cast to "int".(Û˜¼ýÿÿÿÿ8šà•¡Ç.
 I
 java:S1905š"&Remove this unnecessary cast to "int".(È‘íýÿÿÿÿ8Õ¨Â¡Ç.
-1
-java:S1700K"Rename field "player"(Î¶»e8šà•¡Ç.
-@
-java:S2061ó"Make "writeObject" "private".(—œÁÄùÿÿÿÿ8šà•¡Ç.
-V
-java:S1117Œ"8Rename "mood" which hides the field declared at line 70.(»šîê8šà•¡Ç.
-C
-java:S1948F"&Make "mood" transient or serializable.(¤ ‚ú8šà•¡Ç.
-M
-java:S1948-"+Make "petIsDied" transient or serializable.(Ô¼¿³üÿÿÿÿ8šà•¡Ç.
-?
-java:S2061†"Make "readObject" "private".(ú‹çÄýÿÿÿÿ8šà•¡Ç.
-J
-java:S1948A"(Make "hungry" transient or serializable.(¶½˜Õÿÿÿÿÿ8šà•¡Ç.
 J
 java:S19487"-Make "timeToSpawn" transient or serializable.(ÂÄ÷§8šà•¡Ç.
-K
-java:S1948<")Make "afkTime" transient or serializable.(æñ”Žþÿÿÿÿ8šà•¡Ç.
+]
+java:S1117µ":Rename "player" which hides the field declared at line 75.(‘àÑÞüÿÿÿÿ8šà•¡Ç.

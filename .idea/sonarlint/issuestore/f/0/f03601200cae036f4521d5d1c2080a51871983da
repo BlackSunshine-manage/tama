@@ -1,11 +1,11 @@
 
-J
-java:S1602´",Remove useless curly braces around statement(à†¬’8†­ë£Ç.
+W
+java:S1118":Add a private constructor to hide the implicit public one.(Ë–Å«8©µİŸÇ.
 m
 java:S1301d"KReplace this "switch" statement by "if" statements to increase readability.(Ïıæ…øÿÿÿÿ8©µİŸÇ.
 o
 java:S3776]"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ÿº¬8©µİŸÇ.
+J
+java:S1602´",Remove useless curly braces around statement(à†¬’8†­ë£Ç.
 {	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•¸Ëúúÿÿÿÿ8©µİŸÇ.
 C	java:S131d""Add a default case to this switch.(Ïıæ…øÿÿÿÿ8©µİŸÇ.
-W
-java:S1118":Add a private constructor to hide the implicit public one.(Ë–Å«8©µİŸÇ.

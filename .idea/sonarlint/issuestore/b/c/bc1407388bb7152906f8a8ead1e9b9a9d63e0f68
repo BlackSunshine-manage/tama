@@ -1,104 +1,104 @@
 
-P
-java:S1444"5Make this "public static stage1Nightmare" field final(¶…¯úÿÿÿÿ
-v
-java:S1104"[Make stage1Nightmare a static final constant or non-public and provide accessors if needed.(¶…¯úÿÿÿÿ
-t
-java:S1104"YMake stage1Hellion a static final constant or non-public and provide accessors if needed.(Â›Ùùÿÿÿÿ
-z
-java:S1104)"XMake moodMinusOne a static final constant or non-public and provide accessors if needed.(ÿãÏ³ÿÿÿÿÿ8ê€°šÈ.
 o
-java:S1104"YMake fishImageView a static final constant or non-public and provide accessors if needed.(şÏôŒ
-I
-java:S1444"3Make this "public static stage2Hellion" field final(÷äûÎ
-{
-java:S1104,"YMake hungerPlusOne a static final constant or non-public and provide accessors if needed.(Â®–ûıÿÿÿÿ8å…Ø¶È.
-o
-java:S1104"YMake stage2Hellion a static final constant or non-public and provide accessors if needed.(÷äûÎ
+java:S1104"YMake boneImageView a static final constant or non-public and provide accessors if needed.(ãïÃ
+S
+java:S1444""8Make this "public static ghostMeatImageView" field final(’à†ãüÿÿÿÿ
 P
 java:S1444"5Make this "public static stage2Nightmare" field final(¥åéªÿÿÿÿÿ
-q
-java:S1104 "[Make carrotImageView a static final constant or non-public and provide accessors if needed.(Òé‘
-T
-java:S1444)"2Make this "public static moodMinusOne" field final(ÿãÏ³ÿÿÿÿÿ8ê€°šÈ.
-v
-java:S1104"[Make stage3Nightmare a static final constant or non-public and provide accessors if needed.(ç‘æïùÿÿÿÿ
-N
-java:S1444*"1Make this "public static moodPlusOne" field final(œÌ‹Ø8­¦¯šÈ.
-O
-java:S1444"4Make this "public static stage1BlackCat" field final(©»Òÿÿÿÿÿ
-H
-java:S1444"2Make this "public static stage1Poring" field final(Š–©ƒ
-M
-java:S1444"2Make this "public static stage2Poring" field final(ÿå¾—ıÿÿÿÿ
-u
-java:S1104"ZMake stage1BlackCat a static final constant or non-public and provide accessors if needed.(©»Òÿÿÿÿÿ
 I
-java:S1444"3Make this "public static fishImageView" field final(şÏôŒ
-|
-java:S1104-"ZMake hungerMinusOne a static final constant or non-public and provide accessors if needed.(¤ù“²ÿÿÿÿÿ8Ûª×¶È.
-K
-java:S1444 "5Make this "public static carrotImageView" field final(Òé‘
-v
-java:S1104"[Make stage2Nightmare a static final constant or non-public and provide accessors if needed.(¥åéªÿÿÿÿÿ
-o
-java:S1104"YMake meatImageView a static final constant or non-public and provide accessors if needed.(×•Ô†
+java:S1444"3Make this "public static stage2Hellion" field final(÷äûÎ
+t
+java:S1104"YMake stage1Hellion a static final constant or non-public and provide accessors if needed.(Â›Ùùÿÿÿÿ
 P
 java:S1444"5Make this "public static stage3Nightmare" field final(ç‘æïùÿÿÿÿ
 H
-java:S1444$"-Make this "public static imageUI" field final(™óóÏÿÿÿÿÿ
-I
-java:S1444"3Make this "public static stage3Hellion" field final(°á·
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹„³ìşÿÿÿÿ
-p
-java:S1104"ZMake stage3BlackCat a static final constant or non-public and provide accessors if needed.(ü«ÕĞ
-y
-java:S1104""^Make ghostMeatImageView a static final constant or non-public and provide accessors if needed.(’à†ãüÿÿÿÿ
-v
-java:S1104'"[Make imageCage460x44 a static final constant or non-public and provide accessors if needed.(ÿÜş©şÿÿÿÿ
-J
-java:S1444"4Make this "public static stage3BlackCat" field final(ü«ÕĞ
-I
-java:S1444"3Make this "public static meatImageView" field final(×•Ô†
-s
-java:S1104"XMake stage2Poring a static final constant or non-public and provide accessors if needed.(ÿå¾—ıÿÿÿÿ
-n
-java:S1104$"SMake imageUI a static final constant or non-public and provide accessors if needed.(™óóÏÿÿÿÿÿ
-U
-java:S1118":Add a private constructor to hide the implicit public one.(€´„ëşÿÿÿÿ
-V
-java:S1444-"4Make this "public static hungerMinusOne" field final(¤ù“²ÿÿÿÿÿ8Ûª×¶È.
-v
-java:S1104&"[Make imageCage60x290 a static final constant or non-public and provide accessors if needed.(½Óæüÿÿÿÿ
-u
-java:S1104!"_Make rottenMeatImageView a static final constant or non-public and provide accessors if needed.(ª¶æ…
-o
-java:S1104"YMake stage3Hellion a static final constant or non-public and provide accessors if needed.(°á·
-H
 java:S1444"2Make this "public static stage3Poring" field final(²Ò¤­
-P
-java:S1444&"5Make this "public static imageCage60x290" field final(½Óæüÿÿÿÿ
-O
-java:S1444!"9Make this "public static rottenMeatImageView" field final(ª¶æ…
-n
-java:S1104"XMake stage1Poring a static final constant or non-public and provide accessors if needed.(Š–©ƒ
-t
-java:S1104*"WMake moodPlusOne a static final constant or non-public and provide accessors if needed.(œÌ‹Ø8­¦¯šÈ.
-I
-java:S1444"3Make this "public static boneImageView" field final(ãïÃ
 I
 java:S1444"4Make this "public static stage2BlackCat" field final(ÜŸÜ+
-S
-java:S1444""8Make this "public static ghostMeatImageView" field final(’à†ãüÿÿÿÿ
 o
-java:S1104"ZMake stage2BlackCat a static final constant or non-public and provide accessors if needed.(ÜŸÜ+
+java:S1104"YMake stage3Hellion a static final constant or non-public and provide accessors if needed.(°á·
 N
 java:S1444"3Make this "public static stage1Hellion" field final(Â›Ùùÿÿÿÿ
-P
-java:S1444'"5Make this "public static imageCage460x44" field final(ÿÜş©şÿÿÿÿ
+q
+java:S1104 "[Make carrotImageView a static final constant or non-public and provide accessors if needed.(Òé‘
+I
+java:S1444"3Make this "public static fishImageView" field final(şÏôŒ
+N
+java:S1444*"1Make this "public static moodPlusOne" field final(œÌ‹Ø8­¦¯šÈ.
 U
-java:S1444,"3Make this "public static hungerPlusOne" field final(Â®–ûıÿÿÿÿ8å…Ø¶È.
+java:S1118":Add a private constructor to hide the implicit public one.(€´„ëşÿÿÿÿ
+o
+java:S1104"ZMake stage2BlackCat a static final constant or non-public and provide accessors if needed.(ÜŸÜ+
+J
+java:S1444"4Make this "public static stage3BlackCat" field final(ü«ÕĞ
+K
+java:S1444 "5Make this "public static carrotImageView" field final(Òé‘
+n
+java:S1104$"SMake imageUI a static final constant or non-public and provide accessors if needed.(™óóÏÿÿÿÿÿ
+p
+java:S1104"ZMake stage3BlackCat a static final constant or non-public and provide accessors if needed.(ü«ÕĞ
+V
+java:S1444-"4Make this "public static hungerMinusOne" field final(¤ù“²ÿÿÿÿÿ8Ûª×¶È.
+o
+java:S1104"YMake meatImageView a static final constant or non-public and provide accessors if needed.(×•Ô†
+v
+java:S1104'"[Make imageCage460x44 a static final constant or non-public and provide accessors if needed.(ÿÜş©şÿÿÿÿ
+|
+java:S1104-"ZMake hungerMinusOne a static final constant or non-public and provide accessors if needed.(¤ù“²ÿÿÿÿÿ8Ûª×¶È.
+z
+java:S1104)"XMake moodMinusOne a static final constant or non-public and provide accessors if needed.(ÿãÏ³ÿÿÿÿÿ8ê€°šÈ.
+n
+java:S1104"XMake stage1Poring a static final constant or non-public and provide accessors if needed.(Š–©ƒ
+I
+java:S1444"3Make this "public static boneImageView" field final(ãïÃ
+H
+java:S1444$"-Make this "public static imageUI" field final(™óóÏÿÿÿÿÿ
+H
+java:S1444"2Make this "public static stage1Poring" field final(Š–©ƒ
+I
+java:S1444"3Make this "public static meatImageView" field final(×•Ô†
 n
 java:S1104"XMake stage3Poring a static final constant or non-public and provide accessors if needed.(²Ò¤­
 o
-java:S1104"YMake boneImageView a static final constant or non-public and provide accessors if needed.(ãïÃ
+java:S1104"YMake fishImageView a static final constant or non-public and provide accessors if needed.(şÏôŒ
+P
+java:S1444"5Make this "public static stage1Nightmare" field final(¶…¯úÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹„³ìşÿÿÿÿ
+v
+java:S1104"[Make stage1Nightmare a static final constant or non-public and provide accessors if needed.(¶…¯úÿÿÿÿ
+u
+java:S1104"ZMake stage1BlackCat a static final constant or non-public and provide accessors if needed.(©»Òÿÿÿÿÿ
+u
+java:S1104!"_Make rottenMeatImageView a static final constant or non-public and provide accessors if needed.(ª¶æ…
+U
+java:S1444,"3Make this "public static hungerPlusOne" field final(Â®–ûıÿÿÿÿ8å…Ø¶È.
+y
+java:S1104""^Make ghostMeatImageView a static final constant or non-public and provide accessors if needed.(’à†ãüÿÿÿÿ
+t
+java:S1104*"WMake moodPlusOne a static final constant or non-public and provide accessors if needed.(œÌ‹Ø8­¦¯šÈ.
+v
+java:S1104&"[Make imageCage60x290 a static final constant or non-public and provide accessors if needed.(½Óæüÿÿÿÿ
+v
+java:S1104"[Make stage2Nightmare a static final constant or non-public and provide accessors if needed.(¥åéªÿÿÿÿÿ
+T
+java:S1444)"2Make this "public static moodMinusOne" field final(ÿãÏ³ÿÿÿÿÿ8ê€°šÈ.
+s
+java:S1104"XMake stage2Poring a static final constant or non-public and provide accessors if needed.(ÿå¾—ıÿÿÿÿ
+M
+java:S1444"2Make this "public static stage2Poring" field final(ÿå¾—ıÿÿÿÿ
+I
+java:S1444"3Make this "public static stage3Hellion" field final(°á·
+P
+java:S1444&"5Make this "public static imageCage60x290" field final(½Óæüÿÿÿÿ
+P
+java:S1444'"5Make this "public static imageCage460x44" field final(ÿÜş©şÿÿÿÿ
+o
+java:S1104"YMake stage2Hellion a static final constant or non-public and provide accessors if needed.(÷äûÎ
+{
+java:S1104,"YMake hungerPlusOne a static final constant or non-public and provide accessors if needed.(Â®–ûıÿÿÿÿ8å…Ø¶È.
+O
+java:S1444"4Make this "public static stage1BlackCat" field final(©»Òÿÿÿÿÿ
+O
+java:S1444!"9Make this "public static rottenMeatImageView" field final(ª¶æ…
+v
+java:S1104"[Make stage3Nightmare a static final constant or non-public and provide accessors if needed.(ç‘æïùÿÿÿÿ

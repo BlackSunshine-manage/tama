@@ -1,0 +1,10 @@
+
+C
+java:S1075"&Remove this hard-coded path-delimiter.(ù‰Ô¼8èñ•—É.
+U
+java:S1197"8Move the array designator from the variable to the type.(Ù­Ù‰8èñ•—É.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ıÙ°ıÿÿÿÿ
+`
+java:S2259"CA "NullPointerException" could be thrown; "paths" is nullable here.(œÇ­—8èñ•—É.
+h
+java:S1192""KDefine a constant instead of duplicating this literal "tamagotcha" 3 times.(ìòÑ¤8Ã»Ù—É.

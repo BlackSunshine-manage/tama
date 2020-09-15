@@ -83,5 +83,5 @@ w
 Gsrc/main/java/task7/utils/counter_animation/factory/CounterFactory.java,7\f\7f76bf2f73922fd273ae1ccb1004b034d2d9b47e
 }
 Msrc/main/java/task7/utils/counter_animation/hunger_counter/HungerCounter.java,a\6\a6fa8bcdb6b4644bb75786e13ddd20fe461c522e
-X
-(src/main/java/task7/enums/path/Temp.java,7\5\7531d902bcf8e94a2c75a4594205b6e627b78f26
+n
+>src/main/java/task7/single_instance/FileSaveAndLoadPlayer.java,0\6\06ad6e816e2d29129c9c36a58750266849018bf9

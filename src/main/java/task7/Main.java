@@ -23,7 +23,8 @@ import java.util.List;
 import java.util.Map;
 import java.util.concurrent.CopyOnWriteArrayList;
 
-import static task7.enums.path.PathAndNameFiles.*;
+import static task7.enums.path.PathAndNameFiles.CREATE_PET_FXML_FILE_NAME;
+import static task7.enums.path.PathAndNameFiles.ENTERED_WINDOW_FXML_NAME;
 import static task7.utils.ApplicationUtils.APPLICATION_NAME;
 import static task7.utils.ApplicationUtils.createParentFromFXML;
 
@@ -39,7 +40,6 @@ public class Main extends Application implements EngineGameInputKeypad {
 
     @Override
     public void start(Stage primaryStage) throws Exception {
-        //Temp.FULL_PATH_TO_FILE.setValue(getPathToDirSave());
         ObjectInputStream ois = null;
         try {
             ois = new ObjectInputStream(new FileInputStream(FileSaveAndLoadPlayer.getInstance()));
@@ -47,7 +47,6 @@ public class Main extends Application implements EngineGameInputKeypad {
             character = player.getPlayer();
 
             if (player.petIsDiedProperty().getValue()) {
-                System.out.println("HERE");
                 root = (Pane) createParentFromFXML(PathAndNameFiles.PATH_TO_FXML.getPath(), CREATE_PET_FXML_FILE_NAME.getPath(), 300, 430);
             } else {
                 root = (Pane) createParentFromFXML(PathAndNameFiles.PATH_TO_FXML.getPath(), ENTERED_WINDOW_FXML_NAME.getPath(), 300, 430);
@@ -85,19 +84,5 @@ public class Main extends Application implements EngineGameInputKeypad {
                 .findFirst()
                 .orElse(Maps.immutableEntry(KeyCode.ACCEPT, false)).getKey();
     }
-
-//    public static File findOrCreateFileSaveAndLoad() throws IOException {
-//        Temp tempDirectory = Temp.USER_DIR_TO_SAVE_AND_LOAD;
-//        String sumPath = tempDirectory.getValue() + DATA_SAVE_AND_LOAD_FILE_NAME.getPath();
-//        File saveAndLoad = new File(sumPath);
-//        if (!saveAndLoad.exists()) {
-//        } else {
-//            System.out.println("Not existed");
-//            System.out.println(sumPath);
-//        }
-//        return saveAndLoad;
-//    }
-
-
 }
 

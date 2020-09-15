@@ -4,8 +4,6 @@ import javafx.geometry.Rectangle2D;
 import javafx.scene.image.ImageView;
 import javafx.scene.input.KeyCode;
 import javafx.util.Duration;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Qualifier;
 import task7.enums.PetsDescriptions;
 import task7.enums.TypePetName;
 import task7.food.Food;
@@ -20,7 +18,7 @@ public class Nightmare extends CharacterPlayer {
 
         super(imageView);
         super.setPetTypeName(TypePetName.NIGHTMARE_TYPE_NAME.getName());
-        super.petType.setValue( TypePetName.NIGHTMARE_TYPE_NAME.getName());
+        super.petType.setValue(TypePetName.NIGHTMARE_TYPE_NAME.getName());
         super.description.setValue(PetsDescriptions.NIGHTMARE_PET_DESCRIPTION.getDescription());
         super.setDescriptionValue(PetsDescriptions.NIGHTMARE_PET_DESCRIPTION.getDescription());
         super.count = 5;
@@ -36,7 +34,7 @@ public class Nightmare extends CharacterPlayer {
     public Nightmare(ImageView imageView, int width, int height) {
         super(imageView);
         super.setPetTypeName(TypePetName.NIGHTMARE_TYPE_NAME.getName());
-        super.petType.setValue( TypePetName.NIGHTMARE_TYPE_NAME.getName());
+        super.petType.setValue(TypePetName.NIGHTMARE_TYPE_NAME.getName());
         super.description.setValue(PetsDescriptions.NIGHTMARE_PET_DESCRIPTION.getDescription());
         super.setDescriptionValue(PetsDescriptions.NIGHTMARE_PET_DESCRIPTION.getDescription());
         super.count = 5;
@@ -58,19 +56,19 @@ public class Nightmare extends CharacterPlayer {
     public void setOffsetYByKeyCode(KeyCode keyCode) {
         switch (keyCode) {
             case A:
-                getAnimation().setOffsetY(100 *  this.getStageGrowth());
+                getAnimation().setOffsetY(100 * this.getStageGrowth());
                 moveX(-1, this);
                 break;
             case S:
-                getAnimation().setOffsetY(300 *  this.getStageGrowth());
+                getAnimation().setOffsetY(300 * this.getStageGrowth());
                 moveY(1, this);
                 break;
             case D:
-                getAnimation().setOffsetY(300 *  this.getStageGrowth());
+                getAnimation().setOffsetY(300 * this.getStageGrowth());
                 moveX(1, this);
                 break;
             case W:
-                getAnimation().setOffsetY(200 *  this.getStageGrowth());
+                getAnimation().setOffsetY(200 * this.getStageGrowth());
                 moveY(-1, this);
                 break;
             default:

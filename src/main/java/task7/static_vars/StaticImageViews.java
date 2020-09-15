@@ -90,7 +90,7 @@ public class StaticImageViews {
         stage1Poring = new ImageView(new Image(Main.class.getResourceAsStream(PATH_TO_SPRITE_MAPS_IN_RESOURCES_FOLDER.getPath() +
                 PORING_SPRITE_MAP_NAME_1.getPath())));
 
-        stage2Poring = new ImageView(new Image(Main.class.getResourceAsStream(PATH_TO_SPRITE_MAPS_IN_RESOURCES_FOLDER.getPath()  +
+        stage2Poring = new ImageView(new Image(Main.class.getResourceAsStream(PATH_TO_SPRITE_MAPS_IN_RESOURCES_FOLDER.getPath() +
                 PORING_SPRITE_MAP_NAME_2.getPath())));
 
         stage3Poring = new ImageView(new Image(Main.class.getResourceAsStream(PATH_TO_SPRITE_MAPS_IN_RESOURCES_FOLDER.getPath() +

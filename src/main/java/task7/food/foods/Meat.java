@@ -9,5 +9,6 @@ public class Meat extends Food {
         super(imageView);
     }
 
-    public Meat() {}
+    public Meat() {
+    }
 }

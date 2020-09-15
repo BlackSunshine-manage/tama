@@ -5,16 +5,11 @@ import javafx.geometry.Rectangle2D;
 import javafx.scene.image.ImageView;
 import javafx.scene.input.KeyCode;
 import javafx.util.Duration;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Qualifier;
-import task7.engine.EngineGameInputKeypad;
 import task7.enums.PetsDescriptions;
 import task7.enums.TypePetName;
 import task7.food.Food;
 import task7.static_vars.StaticImageViews;
 import task7.utils.SpriteAnimation;
-
-import java.io.Serializable;
 
 import static task7.utils.MovingUtils.moveX;
 import static task7.utils.MovingUtils.moveY;
@@ -72,15 +67,15 @@ public class Hellion extends CharacterPlayer {
                 moveY(1, this);
                 break;
             case D:
-                getAnimation().setOffsetY(100 *  this.getStageGrowth());
+                getAnimation().setOffsetY(100 * this.getStageGrowth());
                 moveX(1, this);
                 break;
             case W:
-                getAnimation().setOffsetY(200 *  this.getStageGrowth());
+                getAnimation().setOffsetY(200 * this.getStageGrowth());
                 moveY(-1, this);
                 break;
             default:
-                getAnimation().setOffsetY(300 *  this.getStageGrowth());
+                getAnimation().setOffsetY(300 * this.getStageGrowth());
                 break;
         }
     }
